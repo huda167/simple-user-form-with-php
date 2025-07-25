@@ -32,8 +32,7 @@ This is a simple PHP project that allows users to submit their name and age thro
 5. Import the userdata.sql file provided in the project to create the required table.
 
 6. Open your browser and go to:
-   http://localhost/user-form-project/
-
+ http://localhost/user-from/index.php
 ## Files Included
 
 - index.php – Main application file
